@@ -56,7 +56,7 @@
     margin: auto;
     width: 100%;
     height: 69px;
-    position: absolute;
+    position: sticky;
     bottom: 0;
 }
 .hamberger{
